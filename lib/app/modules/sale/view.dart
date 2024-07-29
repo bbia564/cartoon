@@ -11,7 +11,7 @@ class SaleVi extends GetView<PageLogic> {
     return Scaffold(
       body: Center(
         child: Obx(
-          () => controller.renner.value
+          () => controller.lesch.value
               ? const CircularProgressIndicator(color: Colors.black,)
               : buildError(),
         ),
@@ -26,7 +26,7 @@ class SaleVi extends GetView<PageLogic> {
         children: [
           IconButton(
             onPressed: () {
-              controller.eigf();
+              controller.gwtyi();
             },
             icon: const Icon(
               Icons.restart_alt,
