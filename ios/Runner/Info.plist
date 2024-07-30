@@ -27,9 +27,9 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSCameraUsageDescription</key>
-	<string>You need to enable camera permission to take photos and record video content for uploading.</string>
+	<string>You need to enable camera permission to take photos and upload cartoon pictures.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>You need to enable photo access in order to upload or save the photo content of your choice.</string>
+	<string>You need to enable the photo album permission to take photos and upload cartoon pictures..</string>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
 	<key>UILaunchStoryboardName</key>
